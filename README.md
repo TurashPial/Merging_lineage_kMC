@@ -13,4 +13,4 @@ The scripts are used to study:
 
 ## Notes
 This project is part of a submitted manuscript.
-Please check back later for references and the final citation.
+For current citation: https://arxiv.org/abs/2609.04029
